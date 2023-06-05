@@ -13,5 +13,6 @@ Exploratory Data Analysis (EDA): The project includes an exploratory data analys
 
 ANN Model Building: An Artificial Neural Network model is constructed to predict customer churn. This model is trained using the preprocessed dataset and achieves an impressive accuracy of 79.5%.
 
+Kagg;e Notebook : https://www.kaggle.com/code/muhammadmuzammil196/customer-churn-prediction-using-ann
 
 
