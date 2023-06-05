@@ -1,4 +1,5 @@
-# ChurnANNalyzer-Customer-Churn-Prediction-Using-ANN
+![Customer Churn Prediction Using ANN](https://github.com/mmuzammil196/ChurnANNalyzer-Customer-Churn-Prediction-Using-ANN/assets/77389040/5a623e7c-42a0-4ff0-88a0-d3a2ff46b165)
+
 ChurnANNalyzer is a customer churn prediction project that utilizes Artificial Neural Network (ANN) algorithm. The project aims to analyze and predict customer churn in a given dataset.
 
 
@@ -12,5 +13,5 @@ Exploratory Data Analysis (EDA): The project includes an exploratory data analys
 
 ANN Model Building: An Artificial Neural Network model is constructed to predict customer churn. This model is trained using the preprocessed dataset and achieves an impressive accuracy of 79.5%.
 
-![Customer Churn Prediction Using ANN](https://github.com/mmuzammil196/ChurnANNalyzer-Customer-Churn-Prediction-Using-ANN/assets/77389040/5a623e7c-42a0-4ff0-88a0-d3a2ff46b165)
+
 
